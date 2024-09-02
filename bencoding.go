@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	bencode "github.com/jackpal/bencode-go"
+	bencode "github.com/marksamman/bencode"
 )
 
 func logError(err error) {
